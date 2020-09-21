@@ -1,0 +1,1 @@
+# patched-nerd-font-Bitstream-Vera-Sans-Mono-Nerd-Font
